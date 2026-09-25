@@ -11,3 +11,15 @@ body {
 h1 {
     color: #58a6ff;
 }
+#boton {
+    background-color: #58a6ff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#boton:hover {
+    background-color: #357abd;
+}
