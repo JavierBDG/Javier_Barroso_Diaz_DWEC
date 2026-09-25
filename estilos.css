@@ -23,3 +23,27 @@ h1 {
 #boton:hover {
     background-color: #357abd;
 }
+#menu {
+    background-color: #161b22;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+#menu ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+#menu a {
+    color: #58a6ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#menu a:hover {
+    color: white;
+}
